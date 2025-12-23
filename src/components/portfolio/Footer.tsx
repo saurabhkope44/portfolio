@@ -89,7 +89,7 @@ export function Footer() {
           {/* Copyright */}
           <div className="pt-8 border-t border-border/50 text-center">
             <p className="text-muted-foreground text-sm flex items-center justify-center gap-1">
-              © {currentYear} Your Name. Made with
+              © {currentYear} Saurabh Kope. Made with
               <Heart className="w-4 h-4 text-primary fill-primary" />
               All rights reserved.
             </p>

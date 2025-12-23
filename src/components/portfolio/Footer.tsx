@@ -37,7 +37,7 @@ export function Footer() {
                 }}
                 className="text-xl font-bold text-gradient inline-block mb-4"
               >
-                {'<YN />'}
+                {'<SK />'}
               </a>
               <p className="text-muted-foreground text-sm leading-relaxed">
                 Full-stack developer passionate about creating exceptional

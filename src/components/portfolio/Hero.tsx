@@ -40,8 +40,8 @@ export function Hero() {
 
           {/* Name */}
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6 animate-fade-up opacity-0 animation-delay-100">
-            <span className="text-foreground">Your </span>
-            <span className="text-gradient">Name</span>
+            <span className="text-foreground">Saurabh </span>
+            <span className="text-gradient">Kope</span>
           </h1>
 
           {/* Typing animation */}

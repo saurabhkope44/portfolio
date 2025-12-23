@@ -66,7 +66,7 @@ export function Navigation() {
             }}
             className="text-xl font-bold text-gradient"
           >
-            {'<YN />'}
+            {'<SK />'}
           </a>
 
           {/* Desktop navigation */}
